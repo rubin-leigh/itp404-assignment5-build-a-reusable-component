@@ -1,0 +1,19 @@
+.contact-card {
+    border-radius: 10px;
+    border: 5px solid rgba(0,0,0,0.8);
+    box-shadow: 3px 3px rgba(0,0,0,0.4);
+    width: 500px;
+    padding-left: 10px;
+    padding-bottom: 10px;
+}
+
+.profile-pic {
+    height: 100px;
+}
+
+.social {
+    width: 20px;
+    height: 20px;
+    border-radius: 3px;
+    margin-right: 5px;
+}
